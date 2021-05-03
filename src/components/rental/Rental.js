@@ -41,7 +41,7 @@ class Rental extends Component {
     { 
  
         {bootbox.confirm({
-            message: "Are you yure to Complete this rental ?",
+            message: "Are you sure to Complete this rental ?",
             buttons: {
                 confirm: {
                     label: 'Yes',

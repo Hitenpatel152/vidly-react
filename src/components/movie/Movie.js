@@ -31,7 +31,7 @@ class Movie extends Component {
     { 
  
         {bootbox.confirm({
-            message: "Are you yure to delete this genere ?",
+            message: "Are you sure to delete this genere ?",
             buttons: {
                 confirm: {
                     label: 'Yes',

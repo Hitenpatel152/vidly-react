@@ -1,5 +1,5 @@
 const settings = {
-    endPoint: 'http://vidly-backend-app.herokuapp.com/api',
+    endPoint: 'https://vidly-backend-app.herokuapp.com/api',
     apiUrl: {
 		user: {
 			
